@@ -27,10 +27,6 @@ I love building clean, user-friendly interfaces with smooth animations and creat
 
 #### 🧾 [AI Resume Analyzer](https://github.com/mazin-goub/ai-resume-analyzer)
 An AI-powered tool that analyzes resumes and provides instant feedback on structure, readability, and keyword optimization.
-
-#### 🍹 [Cocktails](https://github.com/mazin-goub/cocktails)
-A modern web app for discovering cocktail recipes with an elegant design and smooth user interactions.
-
 ---
 
 ### 🌐 Connect With Me
